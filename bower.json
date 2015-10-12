@@ -1,0 +1,15 @@
+{
+  "name": "leaflet",
+  "main": ["leaflet.js", "leaflet.css"],
+  "version": "1.0.0-beta.2",
+  "homepage": "https://github.com/markovaljaots/leaflet-dist-bower",
+  "authors": [
+    "Marko Väljaots <marko.valjaots@gmail.com>"
+  ],
+  "description": "Leaflet Bower package",
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore"
+  ]
+}
